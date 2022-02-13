@@ -1,7 +1,7 @@
 # Traker 
 ## A simple chrome extension that is used to save muiltiple URLs in a local storage
 
-Using HTML, CSS, and javaScript I created this simple chrome extension. The user can surf many browsers and save their links even by copy and paste the link into the input then hit the **SAVE INPUT** button or directly by clicking **TAB SAVE** button which automatically gets and saves the link of the current tab opened by the user. **The URLs are not deleted, even if the user exits google**, unless the user double-clicks the **DELETE ALL** button
+Using HTML, CSS, javaScript, and jQuery I created this simple chrome extension. The user can surf many browsers and save their links even by copy and paste the link into the input then hit the **SAVE INPUT** button or directly by clicking **TAB SAVE** button which automatically gets and saves the link of the current tab opened by the user. **The URLs are not deleted, even if the user exits google**, unless the user double-clicks the **DELETE ALL** button
 
 ## Guide to install and run Traker
 
