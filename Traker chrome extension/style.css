@@ -1,0 +1,73 @@
+/* =============== Public Styles ===============*/
+body{
+    margin: 0px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 500px;
+}
+/* =============== Public Variables =========== */
+:root{
+    --borderRadus : 6px;
+    --transitionTime : 1s;
+}
+
+/*--------------- input, save and delete buttons ---------------*/
+#input-el{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    box-sizing: border-box;
+    border: 1px solid rgba(190, 3, 3, 0.712);
+    border-radius: var(--borderRadus);
+    
+}
+#save-btn{
+   padding: 8px 13px;
+   background-color:rgba(190, 3, 3, 0.712);
+   color:white;
+   font-weight: bold;
+   border: none;
+   border-radius:var(--borderRadus);
+   border: 1px solid rgba(190, 3, 3, 0.712);
+   transition: var(--transitionTime) all ;
+}
+#delete-btn{
+    padding: 8px 13px;
+    background-color: white;
+    color:rgba(190, 3, 3, 0.712);
+    font-weight: bold;
+    border: none;
+    border-radius: var(--borderRadus);
+    border: 1px solid rgba(190, 3, 3, 0.712);
+    transition: var(--transitionTime) all;
+ }
+#tab-save-btn
+{
+    padding: 8px 13px;
+    background-color:rgba(190, 3, 3, 0.712);
+    color:white;
+    font-weight: bold;
+    border: none;
+    border-radius:var(--borderRadus);
+    border: 1px solid rgba(190, 3, 3, 0.712);
+    transition: var(--transitionTime) all;
+}
+
+
+/* --------------- saved items ------------------ */
+ul{
+    padding-left: 0;
+    list-style: none;
+    margin-top: 10px;
+
+}
+li{
+    margin-top: 5px;
+}
+li a{
+    color: rgba(190, 3, 3, 0.712) ;
+
+}
