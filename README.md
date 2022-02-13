@@ -7,7 +7,11 @@ Using HTML, CSS, and javaScript I created this simple chrome extension. The user
 
 **Here is a small tutorial about setup**
 
-https://user-images.githubusercontent.com/75486078/153284393-005b6bde-1227-4f40-a678-c24cf08a12ed.mp4
+
+
+https://user-images.githubusercontent.com/75486078/153765567-be9791ba-8a55-4106-ad7b-fae9fc7b3d0e.mp4
+
+
 
 **Or you you can read the steps**
 
